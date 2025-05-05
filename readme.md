@@ -1,3 +1,5 @@
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=2mcreations_wordpress-plugin-genpdf-queuemail&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=2mcreations_wordpress-plugin-genpdf-queuemail)
+
 # 1. PLUGIN THAT GENERATE PDF
 
 This plugin generate dynamically PDF files from DB data.
